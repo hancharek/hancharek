@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![HitCount](https://github.com/hancharek/SOZOForms.svg)](https://github.com/hancharek/SOZOForms)
+[![HitCount](https://hits.dwyl.com/hancharek/SOZOForms.svg)](https://hits.dwyl.com/hancharek/SOZOForms)
 
 <!---
 hancharek/hancharek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
